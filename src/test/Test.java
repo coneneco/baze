@@ -16,6 +16,8 @@ public class Test {
 		Statement st = conn.createStatement();
 		
 		st.executeQuery(query);
+		
+		System.out.println("Prva izmena");
 	}
 
 }
