@@ -17,12 +17,14 @@ public class Test {
 		
 		st.executeQuery(query);
 		
-//		System.out.println("Prva izmena");
+		System.out.println("Prva izmena");
 		
 		
 		System.out.println("");
 		
 		System.out.println("Pravljenje novog brencha -saglsan");
+		
+		System.out.println("Dodavanje linije da bi se izazvo konflikt");
 	}
 
 }
