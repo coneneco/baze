@@ -18,6 +18,9 @@ public class Test {
 		st.executeQuery(query);
 		
 		System.out.println("Prva izmena");
+		
+		
+		System.out.println("");
 	}
 
 }
